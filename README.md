@@ -7,3 +7,4 @@
 - Spark RDD
 - Pandas API on Spark
 - Spark DeltaLake
+- Spark MLlib
