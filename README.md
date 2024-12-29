@@ -1,7 +1,8 @@
 # Big Data Classes term 7 Poznan University of Technology
 
 - Map Reduce
-- Project 1: Fifa players analysis
+- Project 1: Fifa players analysis (MapReduce, Hive, Apache Workflow)
+- Project 2: Fifa players analysis (Spark Core – RDD, Spark SQL – DataFrame, Spark SQL – Pandas API on Spark)
 - Introduction to Python Data analysis
 - Spark Dataframe
 - Spark RDD
