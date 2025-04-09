@@ -13,3 +13,4 @@
 - Esper EPL
 - Esper CEP
 - Project 3: Subscription events analysis (Esper)
+- Introduction to Kafka Stream Processing
